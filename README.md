@@ -1,4 +1,4 @@
-# Hzy-MOD-Reloaded-
+# HzyMOD Reloaded
 
 <h1>
 HzyMOD 1.0.0-1.18 Patch Notes:
